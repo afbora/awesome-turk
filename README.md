@@ -1,5 +1,5 @@
 # Awesome Turk
-Kategorize edilmiş en iyi Türkçe kaynak listesi
+Kategorize edilmiş en iyi Türk ve Türkçe kaynak listesi
 
 ## Çatılar (Frameworks)
 * [Kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework for Crystal [Crystal]
